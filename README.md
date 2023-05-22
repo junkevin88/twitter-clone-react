@@ -22,4 +22,5 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open [http://localhost:3000](http://localhost:3000)
+And you will see the project, that's it!
